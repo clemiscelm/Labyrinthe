@@ -6,9 +6,7 @@
 			"description": "Default Uncontrolled Changelist",
 			"files": [
 				"D:/clemc/Documents/Labyrinthe/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
-				"D:/clemc/Documents/Labyrinthe/Content/Le_Labyrinthe/input-action/IA_move.uasset",
 				"D:/clemc/Documents/Labyrinthe/Content/Le_Labyrinthe/IA/IA_move.uasset",
-				"D:/clemc/Documents/Labyrinthe/Content/Le_Labyrinthe/IMC/IMC-Inputs.uasset",
 				"D:/clemc/Documents/Labyrinthe/Content/Le_Labyrinthe/Blueprints/BP_FirstPersonCharacter.uasset",
 				"D:/clemc/Documents/Labyrinthe/Content/Le_Labyrinthe/Blueprints/BP_playerController.uasset",
 				"D:/clemc/Documents/Labyrinthe/Content/Le_Labyrinthe/Blueprints/BP_FirstPersonGameMode.uasset",
@@ -19,7 +17,10 @@
 				"D:/clemc/Documents/Labyrinthe/Content/Le_Labyrinthe/Maps/LabyrintheMap.umap",
 				"D:/clemc/Documents/Labyrinthe/Content/Le_Labyrinthe/AC/AC_lineTraceInterupteur.uasset",
 				"D:/clemc/Documents/Labyrinthe/Content/Le_Labyrinthe/Blueprints/BP_interupteur.uasset",
-				"D:/clemc/Documents/Labyrinthe/Content/Le_Labyrinthe/IA/IA_interupteur.uasset"
+				"D:/clemc/Documents/Labyrinthe/Content/Le_Labyrinthe/IA/IA_interupteur.uasset",
+				"D:/clemc/Documents/Labyrinthe/Content/StarterContent/Audio/Collapse01.uasset",
+				"D:/clemc/Documents/Labyrinthe/Content/Le_Labyrinthe/input-action/IA_move.uasset",
+				"D:/clemc/Documents/Labyrinthe/Content/Le_Labyrinthe/IMC/IMC-Inputs.uasset"
 			]
 		}
 	]
